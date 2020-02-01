@@ -2,6 +2,6 @@
 Name[zh_CN]=st
 Comment=simple-terminal emulator for X
 Exec=st
-Icon=utilities-terminal
+Icon=st
 Type=Application
 Categories=GNOME;GTK;System;TerminalEmulator;
